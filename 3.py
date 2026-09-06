@@ -60,6 +60,10 @@ soda = MenuItem("M004", "Soft Drink",
     "Coca-Cola, Sprite, or Fanta", 2.99, "Beverage")
 cake = MenuItem("M005", "Chocolate Cake",
     "Rich chocolate layer cake", 6.99, "Dessert")
+bobs = MenuItem("M006", "Soft Drink",
+    "Coca-Cola, Sprite, or Fanta", 2.99, "Beverage")
+carrot = MenuItem("M007", "Chocolate Cake",
+    "Rich chocolate layer cake", 6.99, "Dessert")
     
 print(burger.getItemInfo())
 
